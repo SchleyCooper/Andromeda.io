@@ -1,0 +1,2 @@
+D:\Projects\Unity\My Projects\Andromeda.io\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Projects\Unity\My Projects\Andromeda.io\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
